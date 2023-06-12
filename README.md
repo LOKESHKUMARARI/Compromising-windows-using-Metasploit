@@ -97,15 +97,6 @@ Notice the "PID/Program name" value for this connection, which is redacted
 ![ss](https://github.com/praveenst13/Compromising-windows-using-Metasploit/assets/118787793/b2d36ca1-64a2-4863-a648-4ef4a8727dd9)
 
 
-
-Post Exploitation
-The target is now owned. Following are meterpreter commands for key capturing in the target machine
-keyscan_start	Begins capturing keys typed in the target. On the Windows target, open Notepad and type in some text, such as your name.
-
-![Screenshot 2023-06-11 004108](https://github.com/praveenst13/Compromising-windows-using-Metasploit/assets/118787793/0d5e3946-a8ef-4044-abba-011b644426f0)
-
-
-
 keyscan_dump	Shows the keystrokes captured so far
 ![10](https://github.com/praveenst13/Compromising-windows-using-Metasploit/assets/118787793/785ef849-9095-4065-b38a-54b544a0c440)
 
